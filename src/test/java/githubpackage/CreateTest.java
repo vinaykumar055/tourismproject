@@ -9,9 +9,15 @@ public void create()
 	
 	System.out.println("---created------");
 }
+
+@Test
+public void modify()
+{
+	System.out.println("---modified------");
 public void modify()
 {
 	
 	System.out.println("---created----  modification--");
+
 }
 }
